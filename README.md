@@ -4,6 +4,8 @@ Sistema de aprendizaje de **Gestión de la Calidad y la Seguridad Agroalimentari
 
 **Usar la app:** https://fborrasumh.github.io/calidadia/
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23843518.svg)](https://doi.org/10.5281/zenodo.23843518)
+
 **Idiomas:** español (por defecto), inglés y portugués; selector en la barra superior (o `?lang=en` / `?lang=pt` en la URL).
 
 ## Qué hace
@@ -64,7 +66,7 @@ ORCID: Fernando Borrás Rocher [0000-0002-5519-4573](https://orcid.org/0000-0002
 
 ## Cómo citar
 
-Borrás Rocher, F. y Frutos Fernández, M. J. (2026). *CalidadIA* (v1.0.0) [Software]. (DOI en trámite)
+Borrás Rocher, F. y Frutos Fernández, M. J. (2026). *CalidadIA* (v1.0.0) [Software]. DOI: [10.5281/zenodo.23843518](https://doi.org/10.5281/zenodo.23843518)
 
 ## Licencia
 
